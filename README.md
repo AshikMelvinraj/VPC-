@@ -1,8 +1,8 @@
 ## Ex-4 Deployment and configuration of a Private Cloud in AWS
 
 ### DATE:
-## Name: MANIKANDAN M
-## Reg. No.:212224040183
+## Name: ASHIK MELVINRAJ 
+## Reg. No.:212224210002
 
 ## Aim:
 To set up of a Private Cloud in AWS.
@@ -82,5 +82,3 @@ Managing and Monitoring:
 
 ## Result:
 Thus, a private cloud on AWS involves using VPCs has been created for a dedicated, isolated network where we can manage our resources and control access according to our requirements.
-
-
